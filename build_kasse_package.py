@@ -837,7 +837,7 @@ package_xml = r"""<?xml version="1.0" encoding="UTF-8"?>
         <packagename><![CDATA[Gruppenkasse]]></packagename>
         <packagedescription><![CDATA[Einfaches Kassen- und Beitrags-Plugin.]]></packagedescription>
         <version>2.0.5</version>
-        <minversion>6.1</minversion>
+        <requiredversion>6.1</requiredversion>
     </packageinformation>
     <authorinformation>
         <author><![CDATA[Wildes Gebilde]]></author>
